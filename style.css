@@ -49,6 +49,10 @@ body.active2 {
 	background-color: var(--mainbg2color);
 }
 
+container {
+	height: 100vh;
+}
+
 .toggle {
 	padding: 10px;
 	display: flex;
