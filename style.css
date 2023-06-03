@@ -50,6 +50,7 @@ body.active2 {
 }
 
 .toggle {
+	padding: 10px;
 	display: flex;
 	justify-content: space-between;
 }
